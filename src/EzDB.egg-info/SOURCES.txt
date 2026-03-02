@@ -1,0 +1,6 @@
+pyproject.toml
+src/EzDB.egg-info/PKG-INFO
+src/EzDB.egg-info/SOURCES.txt
+src/EzDB.egg-info/dependency_links.txt
+src/EzDB.egg-info/top_level.txt
+src/ezdb/__init__.py
